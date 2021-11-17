@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Nicoly Monteiro
 tagline:          'A Jekyll theme'
 description:      'Optional description'
-url:              http://nicolymonteiro.github.io/nicolymonteiro.github.io
-baseurl:          /nicolymonteiro.github.io/
+url:              https://nicolymonteiro.github.io
+baseurl:          /nicolymonteiro.github.io
 
 author:
   name:           'Nicoly Monteiro dos Santos'
