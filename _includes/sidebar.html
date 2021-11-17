@@ -29,7 +29,15 @@
       <!--<a class="sidebar-nav-item" href="{{ site.github.repo }}">Source code</a>-->
       <!--<span class="sidebar-nav-item">Currently v{{ site.version }}</span>-->
     </nav>
-
+    <div class="contact" style="display: inline-flex; column-gap: 10px; justify-content: space-between;">
+      <a href="https://twitter.com/nicoly_mds" class="contact-element" aria-label="twitter" target="_blank" rel="noopener" style="text-decoration: none;"> 
+        <i class="fab fa-twitter"></i>
+      </a>
+      <A HREF="#" class="contact-element" style="text-decoration: none;" onclick="d='duke.edu'; u='nicoly.monteiro.dos.santos'; prompt('Please copy my email address. Thanks!',u+'@'+d); return false">
+        <i class="fas fa-envelope"></i>
+      </A>
+     
+    </div>
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
