@@ -10,7 +10,7 @@ title:            Nicoly Monteiro
 tagline:          'A Jekyll theme'
 description:      'Optional description'
 url:              http://nicolymonteiro.github.io
-baseurl:          /
+baseurl:          ""
 
 author:
   name:           'Nicoly Monteiro dos Santos'
