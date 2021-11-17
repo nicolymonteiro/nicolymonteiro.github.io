@@ -10,7 +10,7 @@ title:            Nicoly Monteiro
 tagline:          'A Jekyll theme'
 description:      'Optional description'
 url:              http://hyde.getpoole.com
-baseurl:          /
+baseurl:          ""
 
 author:
   name:           'Nicoly Monteiro dos Santos'
