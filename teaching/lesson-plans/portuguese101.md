@@ -19,7 +19,7 @@ Teacher will introduce the topic of social media and personal characteristics, a
 
 **Activity 2**
 
-Step 1. Teacher tells students they are going to watch a few minutes from a vlog on Youtube (https://youtu.be/I-3HNGAaJXw). In the vlog, the influencer is showing what a productive day in their lives looks like. The vlog does not have dialogues and consists mostly of images with the occasional caption in Portuguese. Images include a girl waking up early, eating breakfast, and studying. Then, teacher asks students to think about things that they like to do on their daily lives.
+Step 1. Teacher tells students they are going to watch a few minutes from a vlog on Youtube ([https://youtu.be/I-3HNGAaJXw](https://youtu.be/I-3HNGAaJXw)). In the vlog, the influencer is showing what a productive day in their lives looks like. The vlog does not have dialogues and consists mostly of images with the occasional caption in Portuguese. Images include a girl waking up early, eating breakfast, and studying. Then, teacher asks students to think about things that they like to do on their daily lives.
 
 Step 2. Students will play a game of “O que você prefere” (“Would you rather”) on Flipgrid. Teacher tells students they have to pick which activities they would rather do. The phrases will contain simple sentences of activities they might like to do, with pictures related to that activity. “Would you rather wake up early or sleep in?” “Would you rather read a book or go on a hike?” “Drink coffee or tea?” and so on. They will write their names under their preferred options, so it will be possible to see what activities are more popular amongst the class.
 
